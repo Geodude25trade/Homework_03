@@ -8,7 +8,7 @@ public class AppTest {
     public void testNumber() {
         App app = new App();
         app.setNumber(4);
-        assertEquals(5, app.getNumber());
+        assertEquals(4, app.getNumber());
     }
 
 }
